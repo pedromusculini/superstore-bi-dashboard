@@ -55,9 +55,3 @@ Pedro Musculini
 
 ---
 Feel free to use, share, or improve this project!
-
-## Author
-Pedro
-
----
-Feel free to use, share, or improve this project!
