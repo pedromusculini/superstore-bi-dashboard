@@ -47,7 +47,8 @@ Contributions are welcome! To contribute:
 4. Open a Pull Request
 
 ## Screenshots
-_Add screenshots of your dashboard here_
+![Dashboard Charts](charts.png)
+![Interactive Dashboard](interactive.png)
 
 ## Author
 Pedro
